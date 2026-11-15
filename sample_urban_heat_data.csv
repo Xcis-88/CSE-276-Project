@@ -1,0 +1,41 @@
+Zone_ID,Zone_Name,Current_NDVI,Impervious_Surface_Ratio,Albedo,LST_Celsius,Heat_Vulnerability_Index
+Z101,Commercial Core - Central CBD,0.08,0.92,0.12,39.8,High
+Z102,Financial District Highrise,0.11,0.88,0.14,38.9,High
+Z103,Old Wholesale Market,0.06,0.95,0.11,40.4,Critical
+Z104,Interstate Bus Terminal,0.10,0.86,0.13,39.1,High
+Z105,Industrial Sector A (Foundries),0.05,0.91,0.10,41.2,Critical
+Z106,Industrial Sector B (Warehouses),0.12,0.82,0.15,38.2,High
+Z107,Dense Residential Ward 1,0.18,0.76,0.14,37.3,High
+Z108,Dense Residential Ward 2,0.22,0.71,0.15,36.5,Moderate
+Z109,Mixed Commercial-Residential A,0.19,0.74,0.16,36.9,High
+Z110,Mixed Commercial-Residential B,0.24,0.68,0.16,35.8,Moderate
+Z111,Planned Residential Colony X,0.35,0.52,0.18,33.7,Moderate
+Z112,Planned Residential Colony Y,0.38,0.49,0.19,33.1,Moderate
+Z113,Suburban Residential East,0.42,0.44,0.19,32.4,Moderate
+Z114,Suburban Residential West,0.45,0.41,0.20,31.8,Low
+Z115,Tech Park IT Corridor A,0.32,0.56,0.21,34.2,Moderate
+Z116,Tech Park IT Corridor B,0.39,0.47,0.22,32.7,Moderate
+Z117,University Central Campus,0.51,0.34,0.20,30.9,Low
+Z118,Medical College & Hospital,0.30,0.61,0.17,35.1,Moderate
+Z119,Urban Botanical Gardens,0.74,0.12,0.23,28.6,Low
+Z120,City Central Forest Reserve,0.82,0.08,0.24,27.2,Low
+Z121,Riverfront Promenade North,0.48,0.38,0.22,31.2,Low
+Z122,Riverfront Industrial South,0.13,0.84,0.13,38.7,High
+Z123,Railway Junction & Yard,0.07,0.90,0.11,40.1,Critical
+Z124,Airport Runway & Apron,0.09,0.89,0.15,39.5,High
+Z125,Golf Course & Eco-Enclave,0.78,0.14,0.22,27.9,Low
+Z126,Institutional Administrative Zone,0.41,0.43,0.19,32.2,Low
+Z127,Informal Settlement Ward 1,0.14,0.81,0.13,38.6,High
+Z128,Informal Settlement Ward 2,0.16,0.79,0.14,38.1,High
+Z129,Suburban Agricultural Fringe A,0.62,0.21,0.20,29.7,Low
+Z130,Suburban Agricultural Fringe B,0.66,0.18,0.21,29.1,Low
+Z131,Logistics & Freight Hub,0.09,0.87,0.12,39.4,High
+Z132,Sports Stadium Complex,0.28,0.64,0.17,35.4,Moderate
+Z133,Urban Lake Wetland Buffer,0.68,0.16,0.23,28.8,Low
+Z134,Civic Plaza & Municipal Office,0.25,0.67,0.18,36.0,Moderate
+Z135,Highway Transit Corridor,0.11,0.85,0.14,39.0,High
+Z136,Heritage Core & Bazaar,0.08,0.93,0.12,40.2,Critical
+Z137,Eco-Housing Demonstration Zone,0.58,0.26,0.22,30.1,Low
+Z138,Urban Nursery & Arboretum,0.71,0.15,0.23,28.9,Low
+Z139,Brick Kiln & Construction Cluster,0.04,0.94,0.10,41.8,Critical
+Z140,Outer Ring Road Interchange,0.12,0.83,0.15,38.5,High
